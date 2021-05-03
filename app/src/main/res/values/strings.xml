@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Camera Test ML-Kit</string>
+    <string name="title_copyrigt">Powered by ML Kit | Develop by CNStudio 2021</string>
 </resources>
