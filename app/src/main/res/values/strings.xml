@@ -2,4 +2,7 @@
     <string name="app_name">Camera Test ML-Kit</string>
     <string name="title_copyrigt">Powered by ML Kit | Develop by CNStudio 2021</string>
     <string name="title_btn_scan">Pindai</string>
+    <string name="turn_flash_on_off">Turn Flash On/Off</string>
+    <string name="title_qr_scan">Pindai Kode QR</string>
+
 </resources>
