@@ -18,8 +18,9 @@
         android:theme="@style/Theme.CameraTestMLKit"
         android:usesCleartextTraffic="true"
         tools:targetApi="m">
-        <activity android:name=".ScanActivity"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".ScanActivity"/>
+        <activity android:name=".MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
